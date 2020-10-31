@@ -1,5 +1,5 @@
  body{
-    background:black;
+    background: #10101E;
     }
     
     #canvas{
@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background:red;
+    background:blue;
     width: 700px;
     height: 300px;
     margin: 50px auto;
@@ -32,7 +32,7 @@
     }
     
     #secondary-number{
-    border: solid 4px blue;
+    border: solid 4px red;
     }
     
     #add, #equal{
@@ -45,6 +45,8 @@
     width: 150px;
     height: 30px;
     padding-left: 25px;
+    text-align: right;
+    border-radius: 8px;
     }
     
     button{
@@ -53,5 +55,7 @@
     margin: 5px;
     background:green;
     color: white;
-    border: 1px solid lightgrey;
+    border: 1px solid green;
+    border-radius: 8px;
+    padding: 10px;
     }
