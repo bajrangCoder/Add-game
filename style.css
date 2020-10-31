@@ -14,6 +14,7 @@
     position:absolute ;
     top:25%;
     left:15%;
+    border-radius: 8px;
     }
     
     #primary-number, #secondary-number{
@@ -28,11 +29,15 @@
     }
     
     #primary-number{
-    border: solid 4px green;
+    border: solid 4px red;
+    border-radius:8px;
+    color: 
     }
     
     #secondary-number{
     border: solid 4px red;
+    border-radius: 8px;
+    color: 
     }
     
     #add, #equal{
@@ -47,6 +52,7 @@
     padding-left: 25px;
     text-align: right;
     border-radius: 8px;
+    outline: none;
     }
     
     button{
