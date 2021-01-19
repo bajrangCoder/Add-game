@@ -8,12 +8,12 @@
     align-items: center;
     justify-content: center;
     background: blue;
-    width: 700px;
-    height: 300px;
+    width: 600px;
+    height: 200px;
     margin: 50px auto;
     position:absolute ;
     top:25%;
-    left:15%;
+    left:14%;
     border-radius: 8px;
     }
     
@@ -23,8 +23,8 @@
     justify-content: center;
     font-size: 40px;
     font-weight: bold;
-    width: 125px;
-    height: 125px;
+    width: 105px;
+    height: 105px;
     box-sizing: border-box;
     }
     
